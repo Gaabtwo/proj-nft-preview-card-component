@@ -8,7 +8,7 @@
 Esta é uma solução para o [Desafio do componente do cartão de visualização NFT no Frontend Mentor](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U).
 
 ### Links
-- URL do site ao vivo: [Frontend Mentor | NFT Componente do cartão de visualização]()
+- URL do site ao vivo: [Frontend Mentor | NFT Componente do cartão de visualização]("https://gabyzinha72.github.io/proj-nft-preview-card-component/")
 
 ### Tecnologias
 - HTML5
